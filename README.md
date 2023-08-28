@@ -2,6 +2,8 @@
 
 This is a simple Todo application built using Flutter and sqflite. The application allows users to create, read, update, and delete Todo items.
 
+The main purpose of this application is to use SQFLITE database
+
 ## Features ##
 
 Create new Todo items with a title and description.
