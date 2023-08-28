@@ -22,8 +22,8 @@ Run flutter run to start the application.
 ## Dependencies ##
 
 The following dependencies are used in this project:
- * sqflite: ^2.0.0
- * provider: ^6.0.0
+*  sqflite: ^2.3.0
+*  provider: ^6.0.5
 
 ## Resources ##
 
